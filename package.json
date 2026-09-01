@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfólio profissional de Guilherme Campagnolo",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "build": "echo 'Build script here'",
+    "test": "echo 'Test script here'"
+  },
+  "keywords": [
+    "portfolio",
+    "desenvolvedor",
+    "web",
+    "full-stack"
+  ],
+  "author": "Guilherme Campagnolo",
+  "license": "MIT"
+}
